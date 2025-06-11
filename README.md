@@ -2,6 +2,7 @@
 
 ## 👨‍🎓 About Me
 Mechanical Engineering student passionate about aerospace, robotics, and smart systems. Experienced in Arduino, MATLAB, CAD, and experimental design.
+Constantly learning and improving.
 
 ## 📁 Projects
 
